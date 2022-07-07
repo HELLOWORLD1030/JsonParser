@@ -1,0 +1,3 @@
+C:/Users/HELLO_WORLD/CLionProjects/cJSON/cmake-build-debug/CMakeFiles/cJSON.dir
+C:/Users/HELLO_WORLD/CLionProjects/cJSON/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HELLO_WORLD/CLionProjects/cJSON/cmake-build-debug/CMakeFiles/rebuild_cache.dir
